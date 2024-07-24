@@ -1,17 +1,17 @@
-# Olá, eu sou Felipe Xavier! 👋
+# Hello, I'm Felipe Xavier! 👋
 
-Sou um desenvolvedor back-end em formação, focado em aprimorar minhas habilidades em Python e outras tecnologias de desenvolvimento web. Tenho experiência em suporte técnico e estou sempre buscando oportunidades para aprender e contribuir com projetos inovadores.
+I'm a back-end developer in training, focused on enhancing my skills in Python and other web development technologies. I have experience in technical support and am always looking for opportunities to learn and contribute to innovative projects.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipexavier14)](https://www.linkedin.com/in/felipexavier14)
 [![GitHub](https://img.shields.io/github/followers/felipexavier14?label=follow&style=social)](https://github.com/felipexavier14)
 
-## Sobre Mim
+## About Me
 
 - 🌍 Uberlândia, MG
-- 📚 Estudando: Gestão em Tecnologia da Informação no Centro Universitário UNA (2022-2024)
-- 📫 Contato: fecx14@gmail.com | (34)99300-0603
+- 📚 Studying: Information Technology Management at Centro Universitário UNA (2022-2024)
+- 📫 Contact: fecx14@gmail.com | +55 (34) 99300-0603
 
-## Tecnologias e Ferramentas 🛠️
+## Technologies and Tools 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -21,27 +21,27 @@ Sou um desenvolvedor back-end em formação, focado em aprimorar minhas habilida
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Projetos
+## Projects
 
-Aqui estão alguns dos meus projetos mais recentes:
+Here are some of my most recent projects:
 
-- [API de E-commerce](https://github.com/felipexavier14/api-e-commerce): API para e-commerce com Flask, gerenciamento de produtos e autenticação de usuários.
-- [Careers Site](https://github.com/felipexavier14/careers-site-live): Um website para mostrar vagas de emprego e aceitar inscrições.
+- [E-commerce API](https://github.com/felipexavier14/api-e-commerce): An e-commerce API using Flask, featuring product management and user authentication.
+- [Careers Site](https://github.com/felipexavier14/careers-site-live): A website to display job openings and accept applications.
 
-## Experiência Profissional
+## Professional Experience
 
-- **Operador de Telemarketing** na *Confiança Prestação de Serviços* (03/2017 - 05/2017)
-  - Venda de produtos financeiros
-  - Negociações e aplicação de soluções ganha-ganha
+- **Telemarketing Operator** at *Confiança Prestação de Serviços* (03/2017 - 05/2017)
+  - Sale of financial products
+  - Negotiations and application of win-win solutions
 
-## Objetivo Profissional
+## Professional Objective
 
-Busco oportunidades nas áreas de Suporte Técnico, Programação Back-End ou Segurança da Informação, motivado a aplicar meus conhecimentos adquiridos e contribuir com soluções inovadoras.
+I am seeking opportunities in Technical Support, Back-End Programming, or Information Security, motivated to apply my acquired knowledge and contribute with innovative solutions.
 
-## Contato
+## Contact
 
 - Email: fecx14@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/felipexavier14)
 
-Obrigado por visitar meu perfil no GitHub!
+Thank you for visiting my GitHub profile!
 
